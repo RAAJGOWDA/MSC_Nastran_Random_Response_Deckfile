@@ -6,7 +6,7 @@ SOL 111
 CEND
 $
 ECHO=NONE
-include 'include\enter the SET file name to run random response here.bdf'(Note:(Create a Set file separately by choosing at different points you require the random response))
+include 'include\enter the SET file name to run random response here.bdf'(Note: Create a Set file by selecting required points where you require the capture random response)
 Set 3 = 500001
 $
 SPC =       1
